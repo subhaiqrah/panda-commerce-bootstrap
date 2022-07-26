@@ -1,0 +1,23 @@
+.panda-bg-info{
+    background-color: antiquewhite;
+}
+.categories img{
+    width: 100px;
+
+}
+
+.panda-btn-warning{
+    background-image: linear-gradient(to bottom, pink, rgb(212, 3, 160));
+    color: ghostwhite;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-btn-primary{
+    background-image: linear-gradient(to bottom, tomato, rgb(239, 177, 166));
+    color: ghostwhite;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
